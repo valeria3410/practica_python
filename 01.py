@@ -1,4 +1,4 @@
-nombre = input("Ingrese su nombre")
-print("Hola ",nombre)
+multi=8*7
+print(multi)
 
 input()
