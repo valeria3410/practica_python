@@ -1,0 +1,5 @@
+num1= input("Ingrese numero uno ")
+num2= input("Ingrese numero dos ")
+suma=(num1+num2)
+print("El resultado es",suma)
+input()
