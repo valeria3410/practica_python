@@ -1,4 +1,4 @@
-nombre= input("Hola Gerardo")
-print ("Hola,Gerardo")
-input()
+nombre= input("Ingrese su nombre")
+print ("Hola",nombre)
 
+input()
